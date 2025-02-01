@@ -516,13 +516,6 @@ ninja.data = [{
           window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Mustafa-Emil/", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
@@ -534,7 +527,7 @@ ninja.data = [{
         title: 'Scopus',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.scopus.com/authid/detail.uri?authorId=https://www.scopus.com/authid/detail.uri?authorId=36666041400", "_blank");
+          window.open("https://www.scopus.com/authid/detail.uri?authorId=36666041400", "_blank");
         },
       },{
         id: 'social-work',
@@ -548,14 +541,7 @@ ninja.data = [{
         title: 'X',
         section: 'Socials',
         handler: () => {
-          window.open("https://twitter.com/https://x.com/mkemalemil", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://twitter.com/mkemalemil", "_blank");
         },
       },{
       id: 'light-theme',
