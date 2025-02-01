@@ -9,8 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Wood Hall  Room 2911</p>
-    <p>1903 W Michigan Ave</p>
+    <p>Room 2911, Wood Hall</p>
+    <p>1903 W Michigan Ave</p> 
+    <p>Western Michigan University</p>
     <p>Kalamazoo, MI 49008</p>
 
 news: true # includes a list of news items
@@ -18,8 +19,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome! I'm Mustafa Emil, a researcher focused on understanding the Earth’s changing surface. My work leverages cutting-edge technologies like InSAR time-series analysis and hyperspectral remote sensing to investigate ground deformation and geological processes. I’m passionate about applying these tools to study a range of topics, from geohazards and critical infrastructure monitoring to the impacts of climate change on arid regions and mineral exploration. Thank you for visiting!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Visit my [publications](https://mkemalemil.github.io/publications/) page.

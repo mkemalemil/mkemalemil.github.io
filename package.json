@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "mkdirp": "^1.0.0",
     "@shopify/prettier-plugin-liquid": "1.4.0",
     "prettier": "3.1.1"
   }
