@@ -14,13 +14,13 @@ profile:
     <p>Western Michigan University</p>
     <p>Kalamazoo, MI, USA 49008</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
 Welcome! 
 
-I'm Mustafa Emil, a researcher focused on understanding the Earth’s changing surface. My work leverages cutting-edge technologies like InSAR time-series analysis and hyperspectral remote sensing to investigate ground deformation and geological processes. I’m passionate about applying these tools to study a range of topics, from geohazards and critical infrastructure monitoring to the impacts of climate change on arid regions and mineral exploration. Thank you for visiting!
+I am Mustafa Kemal Emil, a geoscientist specializing in remote sensing, geospatial data science, and Earth surface processes. My research integrates advanced techniques such as InSAR time-series analysis, hyperspectral imaging, and machine learning to monitor ground deformation, assess geohazards, and explore surface mineralogy. I am particularly interested in the application of satellite Earth observation and geospatial analytics to understand environmental changes, infrastructure stability, and natural hazards in arid and semi-arid regions. My work aims to bridge the gap between cutting-edge geospatial technologies and real-world challenges in geology, hydrology, and hazard mitigation.
 
 Visit my [publications](https://mkemalemil.github.io/publications/) page.

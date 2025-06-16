@@ -32,7 +32,8 @@
       "summary": "Remote sensing data scientist and lab manager at Earth Sciences Remote Sensing Facility",
       "highlights": [
         "InSAR",
-        "Hyperspectral"
+        "Hyperspectral",
+        "Geospatial data science"
       ]
     }
   ],
@@ -216,16 +217,39 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Remote Sensing",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "InSAR time series analysis",
+        "Imaging spectroscopy",
+        "Time series analysis",
+        "Damage proxy mapping",
+        "Soil moisture estimation"
+      ]
+    },
+    {
+      "name": "Geospatial",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Spatial statistics",
+        "GeoAI and Machine Learning",
+        "Handling large-scale EO data",
+        "Web-GIS development",
+        "ESRI enterprise deployment and administration"
+      ]
+    },
+    {
+      "name": " Scientific Computing",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Programming: Python, R, Bash",
+        "InSAR: ISCE, MintPy, MiaplyPy, SARscape",
+        "Hyperspectral: Tetracorder, ENVI, emit-sds",
+        "Machine Learning: Scikit-learn, PyTorch",
+        "Geospatial: GDAL, Geopandas, ArcGIS server"
       ]
     }
   ],
@@ -243,63 +267,28 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Research Interests",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Ground motion monitoring",
+        "Surface Mineralogy",
+        "Geohazards",
+        "Arid Land Hydrology",
+        "Surface processes",
+        "Damage proxy mapping"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": [
-        "Quantum Teleportation",
-        "Quantum Cryptography"
-      ],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    },
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": [
-        "Quantum Teleportation",
-        "Quantum Cryptography"
-      ],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    },
-    {
-      "name": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ],
-      "startDate": "",
-      "endDate": "",
-      "url": ""
+      "name": "Teaching Interests",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Open Science and FOSS4GEO",
+        "Microwave Remote Sensing",
+        "Hyperspectral Remote Sensing",
+        "Geospatial Data Science",
+        "Geospatial AI",
+        "Hydrogeology"
+      ]
     }
   ]
 }
