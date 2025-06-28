@@ -2,7 +2,7 @@
 layout: page
 title: EMIT for lithological mapping
 description: Mapping surface minerology in Arabian-Nubian Shields using imaging spectroscopy
-img: assets/img/1.jpg
+img: assets/img/EMIT_1.png
 importance: 1
 category: work
 related_publications: true
