@@ -103,14 +103,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-emit-for-lithological-mapping",
+          section: "News",},{id: "projects-emit-for-lithological-mapping",
           title: 'EMIT for lithological mapping',
-          description: "with background image",
+          description: "Mapping surface minerology in Arabian-Nubian Shields using imaging spectroscopy",
           section: "Projects",handler: () => {
               window.location.href = "/projects/emit/";
             },},{id: "projects-qatar-ground-motion-service",
