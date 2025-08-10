@@ -9,7 +9,8 @@ related_publications: true
 ---
 
 
-[View our EMIT viewer web application](https://www.esrs.wmich.edu/webmap/EMIT_viewer_draft/)
+[View our EMIT viewer web application](https://www.esrs.wmich.edu/webmap/EMIT_viewer/)
+
 [View our USGS spectral library viewer web application](https://experience.arcgis.com/experience/15837e6932fa49939b2b0f1140e7bdf1/)
 
 Grant Title: EMIT for Lithologic Mapping, Mineral Exploration, and Tectonic Investigations in Arid Lands
