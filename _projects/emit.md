@@ -37,5 +37,5 @@ A web application for visualizing and analyzing NASA’s EMIT surface reflectanc
     </div>
 </div>
 <div class="caption">
-    A sample view from teh web applicaton.
+    A sample view from the web applicaton.
 </div>
