@@ -25,6 +25,7 @@ related_publications: true
 5. Deliver quarterly deformation bulletins and priority watch lists.
 
 ### Products
+[**Qatar Ground Motion Service web portal**](https://www.esrs.wmich.edu/webmap/qatar/)
 - Automated Sentinel-1 interferometric processing (ascending and descending tracks).
 - Building-level deformation catalogs and stability classifications.
 - Interactive portal with alert layers, temporal charts, and download tools.
