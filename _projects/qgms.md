@@ -8,39 +8,47 @@ category: work
 related_publications: true
 ---
 
-[View the Qatar Ground Motion Service portal](https://www.esrs.wmich.edu/webmap/qatar/)
+[**Qatar Ground Motion Service web portal**](https://www.esrs.wmich.edu/webmap/qatar/)
+
+**Grant Title:** An automated country-wide ground deformation monitoring system based on satellite interferometry  
+**Funding Agency:** Qatar Ministry of Municipality  
+**Period:** 2024 – 2025
+
+> **Overview**  
+> The Qatar Ground Motion Service (QGMS) is a fully automated InSAR monitoring system that ingests Sentinel-1 acquisitions, detects millimeter-scale surface motion, and delivers actionable intelligence to municipal agencies. Hosted at Western Michigan University, the service provides map-based alerts, trend analyses, and dashboards for infrastructure stewardship in a rapidly growing nation.
+
+### Phase 4 Objectives
+1. Operate and maintain the national monitoring pipeline on WMU servers for continuous coverage.
+2. Upgrade the public-facing portal to a modern, high-performance visualization stack.
+3. Train and mentor Ministry engineers as they migrate QGMS to in-country infrastructure.
+4. Expand analytics for asset-scale risk screening (roads, buildings, utilities).
+5. Deliver quarterly deformation bulletins and priority watch lists.
+
+### Products
+- Automated Sentinel-1 interferometric processing (ascending and descending tracks).
+- Building-level deformation catalogs and stability classifications.
+- Interactive portal with alert layers, temporal charts, and download tools.
+- Technical transfer package for long-term Ministry operations.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/QGMS_2_a.gif" title="Ascending" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/QGMS_2_a.gif" title="Ascending orbit deformation" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/QGMS_2_d.gif" title="Descending" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/QGMS_2_d.gif" title="Descending orbit deformation" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Sentinel-1 collects data over Qatar in both ascending and descending orbits.
+    Sentinel-1 collects repeat-pass SAR data over Qatar in both ascending and descending orbits, enabling full deformation coverage.
 </div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/QGMS_4.png" title="Decomposition" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/QGMS_7.png" title="QGMS dashboard" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Building level deformation products.
+    A sample dashboard view highlighting building-level deformation products within the QGMS web portal.
 </div>
 
-Grant Title: An automated country-wide ground deformation monitoring system based on satellite interferometry
-Funding Agency: Qatar Ministry of Municipality
-Period: 2024-2025
-
-We are continuing our work with the Ministry of Municipality in Qatar to support the Qatar Ground Motion Service (QGMS)—a fully automated, satellite-based system that monitors land deformation across the country. This project uses advanced radar data analyses methods (InSAR with Sentinel-1 satellite data) to detect subtle ground movements that may impact infrastructure, such as roads, buildings, or underground utilities.
-
-In earlier phases, we developed and deployed QGMS at Western Michigan University and trained Ministry staff to eventually run the system in-house. Our system tracks ground shifts over time, highlights areas of concern, and provides interactive maps and tools via a dedicated web portal. 
-
-In this new phase (Phase 4), we will:
-- Keep the system running for another year on our servers.
-- Upgrade the web portal to a newer, more powerful platform.
-- Guide the Ministry's technical team as they work to migrate and operate the system on their own infrastructure.
-
-The Qatar Ground Motion Service provides a critical tool for early warning and risk assessment in a rapidly developing country, helping authorities act before small ground movements turn into serious hazards.
+We continue partnering with the Ministry of Municipality to ensure QGMS delivers early warnings and supports proactive maintenance. By detecting subtle subsidence, uplift, or lateral motion before they escalate, QGMS helps protect transportation corridors, utilities, industrial hubs, and residential developments across Qatar.
