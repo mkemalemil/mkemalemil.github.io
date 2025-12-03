@@ -44,11 +44,13 @@ related_publications: true
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/QGMS_7.png" title="QGMS dashboard" class="img-fluid rounded z-depth-1" %}
+        <a href="https://www.esrs.wmich.edu/webmap/qatar/" target="_blank" rel="noopener">
+            {% include figure.liquid loading="eager" path="assets/img/QGMS_7.png" title="QGMS" class="img-fluid rounded z-depth-1" %}
+        </a>
     </div>
 </div>
 <div class="caption">
-    A sample dashboard view highlighting building-level deformation products within the QGMS web portal.
+    A sample view from the web applicaton.
 </div>
 
 We continue partnering with the Ministry of Municipality to ensure QGMS delivers early warnings and supports proactive maintenance. By detecting subtle subsidence, uplift, or lateral motion before they escalate, QGMS helps protect transportation corridors, utilities, industrial hubs, and residential developments across Qatar.
