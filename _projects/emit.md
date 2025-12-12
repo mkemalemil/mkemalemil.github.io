@@ -31,7 +31,7 @@ A web application for visualizing and analyzing NASA’s EMIT surface reflectanc
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <a href="https://www.esrs.wmich.edu/webmap/SpectralViewer/" target="_blank" rel="noopener">
-            {% include figure.liquid loading="eager" path="assets/img/EMIT_1.png" title="SpectralViewer" class="img-fluid rounded z-depth-1" %}
+            {% include figure.liquid loading="eager" path="../assets/img/EMIT_1.png" title="SpectralViewer" class="img-fluid rounded z-depth-1" %}
         </a>
     </div>
 </div>
