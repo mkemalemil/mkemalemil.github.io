@@ -11,3 +11,7 @@ assets/libs/
 node_modules/
 vendor
 .idea
+
+# Local runtime artifacts from ORCID sync scripts
+orcid_works.json
+orcid_missing_bibtex.txt

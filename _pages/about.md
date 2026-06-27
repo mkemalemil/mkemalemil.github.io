@@ -21,6 +21,10 @@ social: true # includes social icons at the bottom of the page
 
 Welcome! 
 
-I am Mustafa Kemal Emil, a geoscientist specializing in remote sensing, geospatial data science, and Earth surface processes. My research integrates advanced techniques such as InSAR time-series analysis, hyperspectral imaging, and machine learning to monitor ground deformation, assess geohazards, and explore surface mineralogy. I am particularly interested in the application of satellite Earth observation and geospatial analytics to understand environmental changes, infrastructure stability, and natural hazards in arid and semi-arid regions. My work aims to bridge the gap between cutting-edge geospatial technologies and real-world challenges in geology, hydrology, and hazard mitigation.
+I am Mustafa Kemal Emil, Lab Manager and Senior Research Associate at the [Earth Sciences Remote Sensing Lab](https://www.esrs.wmich.edu/) in the Department of Geological and Environmental Sciences at Western Michigan University. I specialize in satellite-based remote sensing and geospatial data science, with emphasis on Synthetic Aperture Radar (SAR), InSAR time-series analysis, imaging spectroscopy, and machine learning.
+
+My work focuses on land surface deformation, mineralogical characterization, groundwater resource assessment, and surface process dynamics, particularly in arid and semi-arid environments. I contribute to the scientific direction and technical execution of federally funded research projects and oversee end-to-end geospatial workflows, including data acquisition, preprocessing, analysis, and visualization.
+
+I also design scalable processing pipelines and interactive web-based tools for high-throughput analysis and decision support. In parallel, I mentor graduate and undergraduate students and develop open-source software to expand the use of remote sensing technologies in Earth science applications.
 
 Visit my [publications](https://mkemalemil.github.io/publications/) page.
