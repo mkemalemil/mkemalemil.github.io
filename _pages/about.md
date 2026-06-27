@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome! 
+Welcome!
 
 I am Mustafa Kemal Emil, Lab Manager and Senior Research Associate at the [Earth Sciences Remote Sensing Lab](https://www.esrs.wmich.edu/) in the Department of Geological and Environmental Sciences at Western Michigan University. I specialize in satellite-based remote sensing and geospatial data science, with emphasis on Synthetic Aperture Radar (SAR), InSAR time-series analysis, imaging spectroscopy, and machine learning.
 

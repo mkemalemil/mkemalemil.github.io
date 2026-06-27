@@ -30,11 +30,7 @@
       "startDate": "2021-08-01",
       "endDate": "",
       "summary": "Remote sensing data scientist and lab manager at Earth Sciences Remote Sensing Facility",
-      "highlights": [
-        "InSAR",
-        "Hyperspectral",
-        "Geospatial data science"
-      ]
+      "highlights": ["InSAR", "Hyperspectral", "Geospatial data science"]
     }
   ],
   "education": [
@@ -47,9 +43,7 @@
       "startDate": "2013-08-01",
       "endDate": "2021-08-01",
       "score": "",
-      "courses": [
-        ""
-      ]
+      "courses": [""]
     },
     {
       "institution": "Middle East Technical University, Ankara, Turkey",
@@ -60,9 +54,7 @@
       "startDate": "2007-08-01",
       "endDate": "2012-08-01",
       "score": "",
-      "courses": [
-        ""
-      ]
+      "courses": [""]
     },
     {
       "institution": "Middle East Technical University, Ankara, Turkey",
@@ -73,9 +65,7 @@
       "startDate": "2002-08-01",
       "endDate": "207-08-01",
       "score": "",
-      "courses": [
-        ""
-      ]
+      "courses": [""]
     }
   ],
   "awards": [
@@ -220,13 +210,7 @@
       "name": "Remote Sensing",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "InSAR time series analysis",
-        "Imaging spectroscopy",
-        "Time series analysis",
-        "Damage proxy mapping",
-        "Soil moisture estimation"
-      ]
+      "keywords": ["InSAR time series analysis", "Imaging spectroscopy", "Time series analysis", "Damage proxy mapping", "Soil moisture estimation"]
     },
     {
       "name": "Geospatial",
@@ -269,14 +253,7 @@
     {
       "name": "Research Interests",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Ground motion monitoring",
-        "Surface Mineralogy",
-        "Geohazards",
-        "Arid Land Hydrology",
-        "Surface processes",
-        "Damage proxy mapping"
-      ]
+      "keywords": ["Ground motion monitoring", "Surface Mineralogy", "Geohazards", "Arid Land Hydrology", "Surface processes", "Damage proxy mapping"]
     },
     {
       "name": "Teaching Interests",
