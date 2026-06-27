@@ -5,31 +5,32 @@ description: InSAR-based ground motion monitoring system
 img: assets/img/QGMS_6.png
 importance: 2
 category: work
-related_publications: true
+related_publications: false
 ---
 
-[**Qatar Ground Motion Service web portal**](https://www.esrs.wmich.edu/webmap/qatar/)
+QGMS is an operational, country-scale InSAR monitoring platform for Qatar that transforms Sentinel-1 SAR acquisitions into decision-ready deformation intelligence for infrastructure risk management.
 
-**Grant Title:** An automated country-wide ground deformation monitoring system based on satellite interferometry  
+### Quick Links
+- [**Live web portal**](https://www.esrs.wmich.edu/webmap/qatar/)
+- [**GitHub repository**](https://github.com/mkemalemil/Qatar-Ground-Motion-Service)
+- [**Zenodo record**](https://doi.org/10.5281/zenodo.17703685)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17703685.svg)](https://doi.org/10.5281/zenodo.17703685)
+
+### Project Snapshot
 **Funding Agency:** Qatar Ministry of Municipality  
-**Period:** 2024 – 2025
+**Period:** 2024-2025  
+**My role:** Scientific and technical leadership for operational InSAR analytics, platform delivery, and stakeholder-facing implementation.
 
-> **Overview**  
-> The Qatar Ground Motion Service (QGMS) is a fully automated InSAR monitoring system that ingests Sentinel-1 acquisitions, detects millimeter-scale surface motion, and delivers actionable intelligence to municipal agencies. Hosted at Western Michigan University, the service provides map-based alerts, trend analyses, and dashboards for infrastructure stewardship in a rapidly growing nation.
+### What This System Delivers
+- Continuous Sentinel-1 InSAR processing for ascending and descending tracks.
+- Millimeter-scale motion detection for subsidence, uplift, and lateral displacement.
+- Building- and asset-scale deformation screening for roads, utilities, and urban infrastructure.
+- Interactive maps, trend charts, and alert-ready layers for operational monitoring.
+- Technical transfer and training support for long-term in-country adoption.
 
-### Phase 4 Objectives
-1. Operate and maintain the national monitoring pipeline on WMU servers for continuous coverage.
-2. Upgrade the public-facing portal to a modern, high-performance visualization stack.
-3. Train and mentor Ministry engineers as they migrate QGMS to in-country infrastructure.
-4. Expand analytics for asset-scale risk screening (roads, buildings, utilities).
-5. Deliver quarterly deformation bulletins and priority watch lists.
-
-### Products
-[**Qatar Ground Motion Service web portal**](https://www.esrs.wmich.edu/webmap/qatar/)
-- Automated Sentinel-1 interferometric processing (ascending and descending tracks).
-- Building-level deformation catalogs and stability classifications.
-- Interactive portal with alert layers, temporal charts, and download tools.
-- Technical transfer package for long-term Ministry operations.
+### Why It Matters
+QGMS supports proactive infrastructure stewardship by identifying early deformation signals before they escalate into costly failures. The platform helps convert high-volume EO data into practical, repeatable workflows for engineering and municipal decision-making.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -54,4 +55,8 @@ related_publications: true
     A sample view from the web application.
 </div>
 
-We continue partnering with the Ministry of Municipality to ensure QGMS delivers early warnings and supports proactive maintenance. By detecting subtle subsidence, uplift, or lateral motion before they escalate, QGMS helps protect transportation corridors, utilities, industrial hubs, and residential developments across Qatar.
+QGMS continues to evolve through iterative analytics upgrades and stakeholder collaboration, with emphasis on reliability, interpretability, and operational utility.
+
+### References
+1. Emil, M. K., Sultan, M., Alakhras, K., Sataer, G., Gozi, S., Al-Marri, M., and Gebremichael, E. (2021). Countrywide Monitoring of Ground Deformation Using InSAR Time Series: A Case Study from Qatar. *Remote Sensing*, 13(4), 702. [https://doi.org/10.3390/rs13040702](https://doi.org/10.3390/rs13040702)
+2. Emil, M. K. (2025). Qatar-Ground-Motion-Service: A web application for Qatar Ground Motion Service (v0.0.1). Zenodo. [https://doi.org/10.5281/zenodo.17703685](https://doi.org/10.5281/zenodo.17703685)
