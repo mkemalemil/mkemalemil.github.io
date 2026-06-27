@@ -61,8 +61,17 @@
         {% assign author_is_self = false %}
         {%- assign author_last_name = author.last | regex_replace: '[*∗†‡§¶‖&^]', '' -%}
         {%- assign author_last_html = author.last | regex_replace: '([*∗†‡§¶‖&^]+)', '<sup>\1</sup>' -%}
+        {%- assign author_first_name = author.first | strip -%}
+        {%- assign normalized_last_name = author_last_name | downcase | remove_accents -%}
+        {%- assign normalized_first_name = author_first_name | downcase | remove_accents | replace: '.', '' -%}
         {% if site.scholar.last_name contains author_last_name %}
-          {% if site.scholar.first_name contains author.first %}
+          {% if site.scholar.first_name contains author_first_name %}
+            {% assign author_is_self = true %}
+          {% elsif normalized_last_name == 'emil' and normalized_first_name contains 'mustafa' %}
+            {% assign author_is_self = true %}
+          {% elsif normalized_last_name == 'emil' and normalized_first_name == 'mk' %}
+            {% assign author_is_self = true %}
+          {% elsif normalized_last_name == 'emil' and normalized_first_name == 'm k' %}
             {% assign author_is_self = true %}
           {% endif %}
         {%- endif -%}

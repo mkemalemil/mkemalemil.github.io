@@ -275,7 +275,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Emil]
-  first_name: [Mustafa, K.]
+  first_name: [Mustafa, "Mustafa K.", "Mustafa Kemal", "M. K.", "M.K.", K.]
 
   style: apa
   locale: en
