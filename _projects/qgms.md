@@ -51,7 +51,7 @@ QGMS supports proactive infrastructure stewardship by identifying early deformat
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <a href="https://www.esrs.wmich.edu/webmap/Qatar/" target="_blank" rel="noopener">
-            {% include figure.liquid loading="eager" path="../assets/img/QGMS_7.png" title="Qatar Ground Motion Service" class="img-fluid rounded z-depth-1" %}
+            {% include figure.liquid loading="eager" path="assets/img/QGMS_7.png" title="Qatar Ground Motion Service" class="img-fluid rounded z-depth-1" %}
         </a>
     </div>
 </div>
