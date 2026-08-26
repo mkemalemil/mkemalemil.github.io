@@ -103,7 +103,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-emit-for-lithological-mapping",
+          section: "News",},{id: "projects-solution-mining-induced-land-subsidence",
+          title: 'Solution-mining induced land subsidence',
+          description: "An interactive visualization of InSAR-derived land motion associated with solution mining at Eti Soda site, Ankara, Turkey",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/SolutionMiningInSAR/";
+            },},{id: "projects-emit-for-lithological-mapping",
           title: 'EMIT for lithological mapping',
           description: "Mapping surface minerology in Arabian-Nubian Shields using imaging spectroscopy",
           section: "Projects",handler: () => {
