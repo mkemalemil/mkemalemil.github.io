@@ -108,6 +108,11 @@ ninja.data = [{
           description: "An interactive visualization of InSAR-derived land motion associated with solution mining at Eti Soda site, Ankara, Turkey",
           section: "Projects",handler: () => {
               window.location.href = "/projects/SolutionMiningInSAR/";
+            },},{id: "projects-tanager-open-data-competition",
+          title: 'Tanager Open Data Competition',
+          description: "A public hyperspectral viewer for Planet Tanager mineral mapping",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/TanagerOpenDataCompetition/";
             },},{id: "projects-emit-for-lithological-mapping",
           title: 'EMIT for lithological mapping',
           description: "Mapping surface minerology in Arabian-Nubian Shields using imaging spectroscopy",
