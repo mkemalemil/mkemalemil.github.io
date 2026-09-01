@@ -5,6 +5,6 @@ repo_description_lines_max: 2
 
 github_repos:
   - mkemalemil/SpectralViewer
+  - mkemalemil/SpectralViewer-Tanager
   - mkemalemil/Qatar-Ground-Motion-Service
   - mkemalemil/EMIT-Data-Resources
-  - mkemalemil/LSWAVE-SignalProcessing
