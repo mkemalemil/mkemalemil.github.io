@@ -10,7 +10,7 @@ related_publications: false
 
 This demo app visualizes InSAR-derived land motion associated with solution mining at the Eti Soda site in Ankara, Turkey. It uses Sentinel-1 data collected between 2014 and 2024, with interferograms generated through the [HyP3 platform](https://hyp3-docs.asf.alaska.edu/) and time series analyses performed with [MintPy](https://github.com/insarlab/MintPy).
 
-### Overview
+### Quick Links
 
 - [**Live demo app**](https://www.esrs.wmich.edu/webmap/SolutionMining/EtiSoda/)
 
@@ -18,6 +18,8 @@ This demo app visualizes InSAR-derived land motion associated with solution mini
 
 - [**HyP3**](https://hyp3-docs.asf.alaska.edu/)
 - [**MintPy**](https://github.com/insarlab/MintPy)
+
+### Overview
 
 This web application provides an interactive platform to visualize surface displacement patterns and time series. It demonstrates how remote sensing can help identify deformation linked to solution mining and support early interpretation of subsidence or uplift patterns.
 

@@ -22,17 +22,14 @@ QGMS is an operational, country-scale InSAR monitoring platform for Qatar that t
 
 **Funding Agency:** Qatar Ministry of Municipality  
 **Period:** 2024-2025  
-**My role:** Scientific and technical leadership for operational InSAR analytics, platform delivery, and stakeholder-facing implementation.
 
-### What This System Delivers
+### Overview
 
 - Continuous Sentinel-1 InSAR processing for ascending and descending tracks.
 - Millimeter-scale motion detection for subsidence, uplift, and lateral displacement.
 - Building- and asset-scale deformation screening for roads, utilities, and urban infrastructure.
 - Interactive maps, trend charts, and alert-ready layers for operational monitoring.
 - Technical transfer and training support for long-term in-country adoption.
-
-### Why It Matters
 
 QGMS supports proactive infrastructure stewardship by identifying early deformation signals before they escalate into costly failures. The platform helps convert high-volume EO data into practical, repeatable workflows for engineering and municipal decision-making.
 

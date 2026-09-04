@@ -24,18 +24,15 @@ This project evaluates NASA EMIT hyperspectral products for lithologic mapping, 
 **Funding Agency:** NASA  
 **Grant Number:** 80NSSC24K0863  
 **Period:** 2024-2027  
-**Scope:** EMIT-based lithologic discrimination, mineral system mapping, and regional geologic interpretation in arid environments.
 
-### What This Project Delivers
+### Overview
 
 - Evaluation of EMIT Level 2A reflectance and Level 2B mineral products for geologic mapping.
 - Interactive spectral analysis workflows using USGS reference spectra and diagnostic absorption features.
 - Integrated geospatial context layers (geology, DEM, drainage, and mineral occurrence datasets).
 - Reproducible web-based analysis for research, training, and applied exploration workflows.
 
-### Why It Matters
-
-The project improves access to imaging spectroscopy workflows for Earth science applications by translating high-dimensional hyperspectral data into interpretable products for mineral exploration, tectonic analysis, and regional geologic decision support.
+This project improves access to imaging spectroscopy workflows for Earth science applications by translating high-dimensional hyperspectral data into interpretable products for mineral exploration, tectonic analysis, and regional geologic decision support.
 
 ### Related Conference Abstract
 
